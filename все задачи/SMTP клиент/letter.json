@@ -1,0 +1,6 @@
+{
+  "subject": "большая русская тема письма",
+  "body": "тестовое тело письма и проверка этой . точки",
+  "receivers": ["semen33p@yandex.ru"],
+  "attachments": ["./attachments/text.txt", "./attachments/photo.jpg"]
+}
